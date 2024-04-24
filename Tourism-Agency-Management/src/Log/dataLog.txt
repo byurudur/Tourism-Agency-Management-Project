@@ -1,0 +1,5180 @@
+23.04.2024 12:08 - Error: org.postgresql.util.PSQLException: FATAL: database "tourismagency" does not exist
+----------------------------------
+23.04.2024 12:09 - The new connection has been made.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+23.04.2024 12:09 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+23.04.2024 12:14 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+23.04.2024 12:14 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+23.04.2024 12:15 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+23.04.2024 12:15 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+23.04.2024 12:15 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+23.04.2024 12:15 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+23.04.2024 12:15 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+23.04.2024 12:15 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+23.04.2024 12:15 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+23.04.2024 12:15 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+23.04.2024 12:15 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+23.04.2024 12:15 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+23.04.2024 12:15 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+23.04.2024 12:15 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+23.04.2024 12:15 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+23.04.2024 12:15 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+23.04.2024 12:16 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+23.04.2024 12:16 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+23.04.2024 12:16 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+23.04.2024 12:16 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+23.04.2024 12:16 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+23.04.2024 12:16 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+23.04.2024 12:16 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+23.04.2024 12:16 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+23.04.2024 12:16 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+23.04.2024 12:16 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+23.04.2024 12:16 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+23.04.2024 12:16 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+23.04.2024 12:16 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+23.04.2024 12:16 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+23.04.2024 12:16 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+23.04.2024 12:16 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+23.04.2024 12:17 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+23.04.2024 12:17 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+23.04.2024 12:24 - The new connection has been made.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+23.04.2024 12:24 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+23.04.2024 12:24 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+23.04.2024 12:24 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+23.04.2024 12:24 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+23.04.2024 12:24 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+23.04.2024 12:24 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+23.04.2024 12:24 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+23.04.2024 12:24 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+23.04.2024 12:24 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+23.04.2024 12:24 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+23.04.2024 12:24 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+23.04.2024 12:24 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+23.04.2024 12:24 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+23.04.2024 12:24 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+23.04.2024 12:24 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+23.04.2024 12:24 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+23.04.2024 12:24 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+23.04.2024 12:25 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+23.04.2024 12:25 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+23.04.2024 12:25 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+23.04.2024 12:25 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+23.04.2024 12:25 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+23.04.2024 12:25 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+23.04.2024 12:25 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+23.04.2024 12:25 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+23.04.2024 12:25 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+23.04.2024 12:25 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+23.04.2024 12:25 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+23.04.2024 12:25 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+23.04.2024 12:25 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+23.04.2024 12:25 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+23.04.2024 12:25 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+23.04.2024 12:25 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+23.04.2024 12:25 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:13 - The new connection has been made.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:13 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:13 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:13 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:13 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:13 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:14 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:14 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:15 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:19 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:19 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:19 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:19 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:19 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:19 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:19 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:19 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:19 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:19 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:19 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:19 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:19 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:19 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:19 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:19 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:19 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:19 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:19 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:19 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:19 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:19 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:19 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:19 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:19 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:20 - The new connection has been made.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:20 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:20 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:20 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:21 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:21 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:21 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:21 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:21 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:21 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:21 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:21 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:21 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:21 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:21 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:21 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:21 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:21 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:21 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:21 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:21 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:21 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:21 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:21 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:21 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:21 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:21 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:21 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:21 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:21 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:21 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:21 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:21 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:21 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:21 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:21 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:21 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:21 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:21 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:21 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:21 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:21 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:21 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:21 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:21 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:21 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:21 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:29 - The new connection has been made.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:29 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:29 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:29 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:29 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:30 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:31 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:31 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:31 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:31 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:31 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:31 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:31 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:31 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:31 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:31 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:31 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:31 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:31 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:31 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:31 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:32 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:32 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:32 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:32 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:32 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:32 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:32 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:32 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:32 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:32 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:32 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:34 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:34 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:34 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:34 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:34 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:34 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:34 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:34 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:34 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:34 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:35 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:35 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:35 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:35 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:35 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:35 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:35 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:35 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:35 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:35 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:35 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:35 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:35 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:35 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:35 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:35 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:35 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:35 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:35 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:35 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:35 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:35 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:35 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:51 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:51 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:53 - The new connection has been made.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:53 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:53 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:54 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:54 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:55 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:55 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:55 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:55 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:55 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:55 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:55 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:55 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:55 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:55 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:55 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:55 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:55 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:55 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:55 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:55 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:55 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:55 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:55 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:55 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:55 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:55 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:55 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:55 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:55 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:58 - The new connection has been made.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:58 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:58 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:58 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:58 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:59 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:59 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:59 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 14:59 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:00 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:00 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:00 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:00 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:00 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:00 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:00 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:00 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:00 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:00 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:00 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:00 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:00 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:00 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:00 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:00 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:00 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:00 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:00 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:00 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:00 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:00 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:00 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:00 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:00 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:00 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:02 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:02 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:02 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:02 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:02 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:02 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:02 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:02 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:02 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:02 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:02 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:02 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:02 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:02 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:02 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:02 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:02 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:02 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:02 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:02 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:02 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:03 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:03 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:03 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:03 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:03 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:03 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:03 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:03 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:03 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:03 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:03 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:03 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:03 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:09 - The new connection has been made.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:09 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:09 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:09 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:09 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:09 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:09 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:09 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:09 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:09 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:09 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:09 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:09 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:09 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:09 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:09 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:09 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:09 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:09 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:09 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:09 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:09 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:09 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:09 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:09 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:09 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:09 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:09 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:09 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:09 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:09 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:10 - The new connection has been made.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:10 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:10 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:10 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:10 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:10 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:10 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:10 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:10 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:10 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:10 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:10 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:10 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:10 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:10 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:10 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:10 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:10 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:10 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:10 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:10 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:10 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:10 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:10 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:10 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:10 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:10 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:10 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:10 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:10 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:10 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:10 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:10 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:10 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:10 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:10 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:10 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:10 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:10 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:10 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:10 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:10 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:10 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:10 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:10 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:21 - The new connection has been made.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:21 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:22 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:22 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:22 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:23 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:23 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:23 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:23 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:23 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:23 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:23 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:23 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:23 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:23 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:23 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:23 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:23 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:23 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:23 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:23 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:23 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:23 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:23 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:23 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:23 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:23 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:23 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:23 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:23 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:25 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:25 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:25 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:25 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:25 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:25 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:25 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:25 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:25 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:25 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:25 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:25 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:25 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:25 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:25 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:25 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:25 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:25 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:25 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:25 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:25 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:25 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:25 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:27 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:27 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:27 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:27 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:27 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:27 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:27 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:27 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:27 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:27 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:27 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:27 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:27 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:27 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:27 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:27 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:27 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:27 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:27 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:27 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:27 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:27 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:27 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:27 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:27 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:27 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:27 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:27 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:27 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:27 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:27 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:27 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:27 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:27 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:27 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:27 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:27 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:27 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:27 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:27 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:30 - The new connection has been made.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:30 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:30 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:30 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:30 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:30 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:30 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:30 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:30 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:30 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:30 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:30 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:30 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:30 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:30 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:30 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:30 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:31 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:31 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:31 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:31 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:31 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:31 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:31 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:31 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:31 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:31 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:31 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:31 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:31 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:31 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:31 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:31 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:31 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:31 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:31 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:31 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:31 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:31 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:31 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:31 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:31 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:31 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:31 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:31 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:31 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:31 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:31 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:31 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:31 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:31 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:31 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:32 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:32 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:32 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:32 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:32 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:32 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:32 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:32 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:32 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:32 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:32 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:32 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:32 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:33 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:33 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:33 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:33 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:33 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:33 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:33 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:33 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:33 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:33 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:33 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:33 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:33 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:33 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:34 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:34 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:34 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:34 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:35 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:35 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:35 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:36 - The new connection has been made.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:36 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:36 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:36 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:37 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:37 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:37 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:37 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:37 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:37 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:37 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:37 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:37 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:37 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:37 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:37 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:37 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:37 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:37 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:37 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:37 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:37 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:37 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:37 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:37 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:37 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:37 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:37 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:37 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:37 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:37 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:38 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:38 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:38 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:38 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:38 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:38 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:38 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:38 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:38 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:38 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:39 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:39 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:39 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:39 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:39 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:39 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:39 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:39 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:39 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:39 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:39 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:39 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:39 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:40 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:41 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:41 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:41 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:41 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:41 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:41 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:41 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:41 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:41 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:41 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:41 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:41 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:41 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:41 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:41 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:41 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:41 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:41 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:43 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:43 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:43 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:43 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:43 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:43 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:43 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:43 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:43 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:43 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:43 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:43 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:43 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:43 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:43 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:43 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:43 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:43 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:49 - The new connection has been made.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:49 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:49 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:50 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:50 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:50 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:50 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:50 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:50 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:51 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:51 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:51 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:51 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:51 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:51 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:51 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:51 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:51 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:51 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:51 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:51 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:51 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:51 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:51 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:51 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:51 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:51 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:51 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:51 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:51 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:51 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:51 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:51 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:51 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:51 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:53 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:53 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:53 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:53 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:53 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:53 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:53 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:53 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:53 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:53 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:53 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:53 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:53 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:53 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:53 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:53 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:53 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:53 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:53 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:53 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:54 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:54 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:54 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:54 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:54 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:54 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:54 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:54 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:54 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:54 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:54 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:54 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:54 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:55 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:55 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:55 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:55 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:55 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:55 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:55 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:55 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:55 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:55 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:55 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:55 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:55 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:55 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:55 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:56 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:56 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:56 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 15:56 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:00 - The new connection has been made.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:00 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:00 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:01 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:01 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:02 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:02 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:02 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:02 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:02 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:02 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:02 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:02 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:02 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:02 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:02 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:02 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:02 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:02 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:02 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:02 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:02 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:02 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:02 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:02 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:03 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:03 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:03 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:03 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:03 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:03 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:03 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:03 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:03 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:03 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:03 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:03 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:03 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:03 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:03 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:03 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:03 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:03 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:03 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:03 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:03 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:03 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:04 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:04 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:04 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:04 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:04 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:04 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:04 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:04 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:04 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:04 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:05 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:05 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:05 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:05 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:05 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:05 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:05 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:05 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:05 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:05 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:05 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:05 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:05 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:06 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:06 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:06 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:06 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:06 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:06 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:06 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:06 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:06 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:06 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:06 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:06 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:06 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:06 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:06 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:07 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:07 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:07 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:07 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:07 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:07 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:07 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:07 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:07 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:07 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:07 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:07 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:07 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:07 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:08 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:08 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:08 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:08 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:09 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:09 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:09 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:09 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:09 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:09 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 16:09 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 18:11 - The new connection has been made.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
+24.04.2024 18:11 - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/trsmagency
+USERNAME: postgres
+PASSWORD: admin
+---------------------------
